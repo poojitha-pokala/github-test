@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Hello c file
 
 
 editedddd
+=======
+i byeeeeeeeeeeeee
+
+i seeeeeeee on c
+>>>>>>> b3

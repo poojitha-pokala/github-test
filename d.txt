@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bye d file
 
 edited in d also 
+=======
+i seee on d filessssssssss
+>>>>>>> b3
