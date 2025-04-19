@@ -1,1 +1,3 @@
 bye d file
+
+edited in d also 
